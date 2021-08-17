@@ -1,0 +1,98 @@
+.header
+{
+    height: 100px;
+    width: 1500px;
+    border: 1px solid black;
+    background-image: url("New folder/2180133.jpg");
+    background-position: center;
+}
+.outer
+{
+    height: 700px;
+    width: 1500px;
+    border: 1px solid black;
+    margin-top: 20px;
+    display: flex;
+}
+.inner
+{
+    height: 700px;
+    width: 300px;
+    border: 1px solid black;
+}
+#one
+{
+    background-image: url("New folder/tiger.jpg");
+    background-position:center;
+    background-size: cover;
+}
+#two
+{
+    background-image: url("New folder/surfing.jpg");
+    background-position:center;
+    background-size: cover;
+}
+#three
+{
+    background-image: url("New folder/meditation.jpg");
+    background-position:center;
+    background-size: cover;
+}
+#four
+{
+    background-image: url("New folder/essence.jpg");
+    background-position:center;
+    background-size: cover;
+}
+#five
+{
+    background-image: url("New folder/festive.jpg");
+    background-position:center;
+    background-size: cover;
+}
+.footer
+{
+    height: 250px;
+    width: 1500px;
+    border: 1px solid black;
+    background-image: url("New folder/bottom.jpg");
+    background-position: center;
+    background-size: cover;
+    margin-top: 20px;
+}
+.text1
+{
+    color: white;
+    text-align: center;
+    font-size: 45px;
+}
+.text2
+{
+    font-size: 40px;
+    color: white;
+    margin-top: 5px;
+    text-align: center;
+}
+.bottom
+{
+    height: 100px;
+    width: 1500px;
+    border: 1px solid black;
+    background-color: black;
+    color: white;
+}
+h2
+{
+    text-align: center;
+}
+.bar
+{
+    background-color: blue;
+    color:white;
+    text-align: center;
+    margin-top: 0px;
+}
+h1:hover
+{
+    color: red;
+}
